@@ -1,0 +1,42 @@
+#uaeimg{
+    height: 80vh;
+    width: 100%;
+}
+
+/* Tradition culture */
+.Title2{
+    margin: 10% 0 0 30%;
+    color:darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sizeofimg{
+    margin-left: 20%;
+   width: 50%;
+    height: 60vh;
+}
+
+/* 5 elements poster setting & preservation of culture */
+
+
+.tradpost2{
+    width: 100vh;
+    height: 100vh;
+    object-fit: contain;
+}
+
+.tradpost23{
+    width: 100vh;
+    height: 100vh;
+   object-fit: contain;
+   margin-bottom: 20%;
+   margin-left: 50%;
+}
+
+/* Uae long flag */
+.uaelongflag{
+    margin-top: 8%;
+    margin-left: 70%;
+   object-fit: contain;
+    -webkit-transform: rotate(90deg); -moz-transform: rotate(90deg); -o-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg);
+}
